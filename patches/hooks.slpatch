@@ -1,0 +1,109 @@
+[version=100, target=main]
+
+00967f6c:
+    b setPaneStringLengthHook
+009685a4:
+    b setPaneStringLengthHook
+00967ff8:
+    bl setPaneStringLengthHook
+00968098:
+    bl setPaneStringLengthHook
+00968138:
+    bl setPaneStringLengthHook
+009681dc:
+    bl setPaneStringLengthHook
+00968288:
+    bl setPaneStringLengthHook
+00968328:
+    bl setPaneStringLengthHook
+009683c8:
+    bl setPaneStringLengthHook
+0096846c:
+    bl setPaneStringLengthHook
+0096851c:
+    bl setPaneStringLengthHook
+
+00887714:
+    b tryGetPlayerHook
+00887720:
+    b tryGetPlayerHook
+00887720:
+    b tryGetPlayerHook
+008877a4:
+    b tryGetPlayerHook
+008877b0:
+    b tryGetPlayerHook
+008877b0:
+    b tryGetPlayerHook
+00887bc0:
+    b tryGetPlayerHook
+00887c14:
+    b tryGetPlayerHook
+00426de4:
+    bl tryGetPlayerHook
+00426e54:
+    bl tryGetPlayerHook
+0042df80:
+    bl tryGetPlayerHook
+008876ac:
+    bl tryGetPlayerHook
+0088774c:
+    bl tryGetPlayerHook
+00887768:
+    bl tryGetPlayerHook
+008877dc:
+    bl tryGetPlayerHook
+008877f8:
+    bl tryGetPlayerHook
+00887818:
+    bl tryGetPlayerHook
+00887864:
+    bl tryGetPlayerHook
+008878cc:
+    bl tryGetPlayerHook
+0088792c:
+    bl tryGetPlayerHook
+008879e8:
+    bl tryGetPlayerHook
+00887a1c:
+    bl tryGetPlayerHook
+00887c68:
+    bl tryGetPlayerHook
+00887cc4:
+    bl tryGetPlayerHook
+00887e14:
+    bl tryGetPlayerHook
+00887f64:
+    bl tryGetPlayerHook
+
+// disable snapshot mode when needed
+00097968:
+    bl isPadTriggerDownMenu
+003e4e68:
+    bl isPadTriggerDownMenu
+003eb290:
+    bl isPadTriggerDownMenu
+003eef68:
+    bl isPadTriggerDownMenu
+00420eac:
+    bl isPadTriggerDownMenu
+
+// disable item drop when needed
+00421490:
+    b isPadTriggerUpMenu
+001473c4:
+    bl isPadTriggerUpMenu
+001473ec:
+    bl isPadTriggerUpMenu
+001616fc:
+    bl isPadTriggerUpMenu
+0016178c:
+    bl isPadTriggerUpMenu
+00161810:
+    bl isPadTriggerUpMenu
+00161894:
+    bl isPadTriggerUpMenu
+001618fc:
+    bl isPadTriggerUpMenu
+00420e3c:
+    bl isPadTriggerUpMenu

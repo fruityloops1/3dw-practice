@@ -1,0 +1,9 @@
+{
+    global:
+        _Z19initPlayerActorHookPN2al9LiveActorEPvjPcmPhS2_mjjijS3_;
+        _Z23setPaneStringLengthHookPN2al10IUseLayoutEPKcPKDsti;
+        _Z16tryGetPlayerHookPN2al12PlayerHolderEi;
+        _Z20isPadTriggerDownMenui;
+        _Z18isPadTriggerUpMenui;
+    local: *;
+};

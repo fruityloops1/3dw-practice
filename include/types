@@ -1,0 +1,33 @@
+#pragma once
+
+#include <inttypes.h>
+
+typedef unsigned char       u8;
+typedef unsigned short      u16;
+typedef unsigned int        u32;
+typedef uint64_t            u64;
+typedef __uint128_t         u128;
+
+typedef signed char         s8;
+typedef signed short        s16;
+typedef signed int          s32;
+typedef int64_t             s64;
+typedef __int128_t          s128;
+
+typedef float               f32;
+typedef double              f64;
+
+typedef unsigned long int ulong;
+
+typedef unsigned int        usize_t;
+
+typedef unsigned char uChar;
+
+typedef unsigned char   undefined;
+typedef unsigned char    undefined1;
+typedef unsigned short    undefined2;
+typedef unsigned int    undefined3;
+typedef unsigned int    undefined4;
+typedef unsigned long    undefined8;
+
+#define spad(ID, SIZE) undefined padding##SIZE##_##ID[SIZE];
