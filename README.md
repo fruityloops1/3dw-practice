@@ -28,7 +28,7 @@ devkitPro will be installed to `/opt/devkitpro` on most Unix-based systems
 
 After a successful build, transfer:
 
-- `smo-practice100.nso` to `/atmosphere/contents/010028600EBDA000/exefs/subsdk1` (note: no extension)
+- `3dw-practice100.nso` to `/atmosphere/contents/010028600EBDA000/exefs/subsdk1` (note: no extension)
 - `starlight_patch_100/9F7EFC2FB9653E5CDE03030478F23EDA7D18EF44.ips` to `/atmosphere/exefs_patches/starlight_patch_100/9F7EFC2FB9653E5CDE03030478F23EDA7D18EF44.ips`
 - `romfs` to `/atmosphere/contents/010028600EBDA000/romfs`
 
@@ -37,7 +37,7 @@ After a successful build, transfer:
 First open the Yuzu `Mod Data Location` for SMO. 
 It can be opened by right-clicking on the game in yuzu (alternatively `%YUZU_DIR%/load/010028600EBDA000`). 
 Then make a new folder for the practice mod and transfer the following files into the newly created folder.
-- `smo-practice100.nso` to `<new-folder>/exefs/subsdk1` (note: no extension)
+- `3dw-practice100.nso` to `<new-folder>/exefs/subsdk1` (note: no extension)
 - `starlight_patch_100/9F7EFC2FB9653E5CDE03030478F23EDA7D18EF44.ips` to `<new-folder>/exefs/9F7EFC2FB9653E5CDE03030478F23EDA7D18EF44.ips`
 - `romfs` to `<new-folder>/romfs`
 
