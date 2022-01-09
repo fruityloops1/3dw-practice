@@ -34,7 +34,7 @@ After a successful build, transfer:
 
 ## Install (Yuzu)
 
-First open the Yuzu `Mod Data Location` for SMO. 
+First open the Yuzu `Mod Data Location` for 3DW. 
 It can be opened by right-clicking on the game in yuzu (alternatively `%YUZU_DIR%/load/010028600EBDA000`). 
 Then make a new folder for the practice mod and transfer the following files into the newly created folder.
 - `3dw-practice100.nso` to `<new-folder>/exefs/subsdk1` (note: no extension)
